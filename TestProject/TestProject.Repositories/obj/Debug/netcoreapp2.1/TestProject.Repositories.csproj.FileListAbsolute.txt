@@ -1,0 +1,43 @@
+C:/Users/Automata/source/repos/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.deps.json
+C:/Users/Automata/source/repos/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.runtimeconfig.json
+C:/Users/Automata/source/repos/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.runtimeconfig.dev.json
+C:/Users/Automata/source/repos/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.dll
+C:/Users/Automata/source/repos/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.pdb
+C:/Users/Automata/source/repos/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Interfaces.dll
+C:/Users/Automata/source/repos/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Interfaces.pdb
+C:/Users/Automata/source/repos/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.csprojAssemblyReference.cache
+C:/Users/Automata/source/repos/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.csproj.CoreCompileInputs.cache
+C:/Users/Automata/source/repos/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.AssemblyInfoInputs.cache
+C:/Users/Automata/source/repos/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.AssemblyInfo.cs
+C:/Users/Automata/source/repos/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.csproj.CopyComplete
+C:/Users/Automata/source/repos/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.dll
+C:/Users/Automata/source/repos/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.pdb
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.deps.json
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.runtimeconfig.json
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.runtimeconfig.dev.json
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.dll
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.pdb
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Interfaces.dll
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Interfaces.pdb
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.csprojAssemblyReference.cache
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.csproj.CoreCompileInputs.cache
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.AssemblyInfoInputs.cache
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.AssemblyInfo.cs
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.csproj.CopyComplete
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.dll
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.deps.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.runtimeconfig.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.runtimeconfig.dev.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Repositories.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Interfaces.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/bin/Debug/netcoreapp2.1/TestProject.Interfaces.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.csprojAssemblyReference.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.AssemblyInfoInputs.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.AssemblyInfo.cs
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.csproj.CopyComplete
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Debug/netcoreapp2.1/TestProject.Repositories.genruntimeconfig.cache

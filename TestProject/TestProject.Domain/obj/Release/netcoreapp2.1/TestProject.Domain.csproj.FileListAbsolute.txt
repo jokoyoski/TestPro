@@ -1,0 +1,17 @@
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/bin/Release/netcoreapp2.1/TestProject.Domain.deps.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/bin/Release/netcoreapp2.1/TestProject.Domain.runtimeconfig.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/bin/Release/netcoreapp2.1/TestProject.Domain.runtimeconfig.dev.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/bin/Release/netcoreapp2.1/TestProject.Domain.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/bin/Release/netcoreapp2.1/TestProject.Domain.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/bin/Release/netcoreapp2.1/TestProject.Interfaces.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/bin/Release/netcoreapp2.1/TestProject.Repositories.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/bin/Release/netcoreapp2.1/TestProject.Interfaces.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/bin/Release/netcoreapp2.1/TestProject.Repositories.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/obj/Release/netcoreapp2.1/TestProject.Domain.csprojAssemblyReference.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/obj/Release/netcoreapp2.1/TestProject.Domain.AssemblyInfoInputs.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/obj/Release/netcoreapp2.1/TestProject.Domain.AssemblyInfo.cs
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/obj/Release/netcoreapp2.1/TestProject.Domain.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/obj/Release/netcoreapp2.1/TestProject.Domain.csproj.CopyComplete
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/obj/Release/netcoreapp2.1/TestProject.Domain.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/obj/Release/netcoreapp2.1/TestProject.Domain.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Domain/obj/Release/netcoreapp2.1/TestProject.Domain.genruntimeconfig.cache

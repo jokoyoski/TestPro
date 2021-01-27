@@ -1,0 +1,67 @@
+C:/Users/Automata/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.csprojAssemblyReference.cache
+C:/Users/Automata/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.csproj.CoreCompileInputs.cache
+C:/Users/Automata/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.RazorAssemblyInfo.cache
+C:/Users/Automata/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.RazorAssemblyInfo.cs
+C:/Users/Automata/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.AssemblyInfoInputs.cache
+C:/Users/Automata/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.AssemblyInfo.cs
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.deps.json
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.runtimeconfig.json
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.runtimeconfig.dev.json
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.dll
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.pdb
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.Domain.dll
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.Interfaces.dll
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.Repositories.dll
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.Domain.pdb
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.Interfaces.pdb
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.Repositories.pdb
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.csprojAssemblyReference.cache
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.csproj.CoreCompileInputs.cache
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.RazorAssemblyInfo.cache
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.RazorAssemblyInfo.cs
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.AssemblyInfoInputs.cache
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.AssemblyInfo.cs
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.RazorTargetAssemblyInfo.cache
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.csproj.CopyComplete
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.dll
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.pdb
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/AA.Infrastructure.dll
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/Castle.Windsor.dll
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/SendGrid.dll
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/Castle.Windsor.xml
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/System.Web.Mvc.dll
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject/bin/Debug/netcoreapp2.1/System.Web.Mvc.xml
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.deps.json
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.runtimeconfig.json
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.runtimeconfig.dev.json
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.Domain.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.Interfaces.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.Repositories.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.Domain.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.Interfaces.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/TestProject.Repositories.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.csprojAssemblyReference.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.AssemblyInfoInputs.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.AssemblyInfo.cs
+/Users/mac/Projects/ks-app/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.RazorAssemblyInfo.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.RazorAssemblyInfo.cs
+/Users/mac/Projects/ks-app/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.RazorTargetAssemblyInfo.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.csproj.CopyComplete
+/Users/mac/Projects/ks-app/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject/obj/Debug/netcoreapp2.1/TestProject.genruntimeconfig.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/publish/publish/web.config
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/publish/web.config
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/publish/appsettings.Development.json
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/publish/appsettings.json
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/publish/publish/appsettings.Development.json
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/publish/publish/appsettings.json
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/publish/publish/TestProject.deps.json
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/publish/publish/TestProject.runtimeconfig.json
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/publish/TestProject.deps.json
+/Users/mac/Projects/ks-app/TestProject/TestProject/bin/Debug/netcoreapp2.1/publish/TestProject.runtimeconfig.json

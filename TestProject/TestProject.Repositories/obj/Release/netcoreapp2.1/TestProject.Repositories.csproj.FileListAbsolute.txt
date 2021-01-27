@@ -1,0 +1,15 @@
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/bin/Release/netcoreapp2.1/TestProject.Repositories.deps.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/bin/Release/netcoreapp2.1/TestProject.Repositories.runtimeconfig.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/bin/Release/netcoreapp2.1/TestProject.Repositories.runtimeconfig.dev.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/bin/Release/netcoreapp2.1/TestProject.Repositories.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/bin/Release/netcoreapp2.1/TestProject.Repositories.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/bin/Release/netcoreapp2.1/TestProject.Interfaces.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/bin/Release/netcoreapp2.1/TestProject.Interfaces.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Release/netcoreapp2.1/TestProject.Repositories.csprojAssemblyReference.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Release/netcoreapp2.1/TestProject.Repositories.AssemblyInfoInputs.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Release/netcoreapp2.1/TestProject.Repositories.AssemblyInfo.cs
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Release/netcoreapp2.1/TestProject.Repositories.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Release/netcoreapp2.1/TestProject.Repositories.csproj.CopyComplete
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Release/netcoreapp2.1/TestProject.Repositories.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Release/netcoreapp2.1/TestProject.Repositories.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Repositories/obj/Release/netcoreapp2.1/TestProject.Repositories.genruntimeconfig.cache

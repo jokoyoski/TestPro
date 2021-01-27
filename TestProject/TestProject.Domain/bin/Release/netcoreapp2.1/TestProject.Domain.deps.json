@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "TestProject.Domain/1.0.0": {
+        "dependencies": {
+          "TestProject.Interfaces": "1.0.0",
+          "TestProject.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "TestProject.Domain.dll": {}
+        }
+      },
+      "TestProject.Interfaces/1.0.0": {
+        "runtime": {
+          "TestProject.Interfaces.dll": {}
+        }
+      },
+      "TestProject.Repositories/1.0.0": {
+        "dependencies": {
+          "TestProject.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "TestProject.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestProject.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestProject.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

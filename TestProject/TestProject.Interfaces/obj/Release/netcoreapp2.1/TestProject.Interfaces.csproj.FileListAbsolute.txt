@@ -1,0 +1,12 @@
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/bin/Release/netcoreapp2.1/TestProject.Interfaces.deps.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/bin/Release/netcoreapp2.1/TestProject.Interfaces.runtimeconfig.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/bin/Release/netcoreapp2.1/TestProject.Interfaces.runtimeconfig.dev.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/bin/Release/netcoreapp2.1/TestProject.Interfaces.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/bin/Release/netcoreapp2.1/TestProject.Interfaces.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/obj/Release/netcoreapp2.1/TestProject.Interfaces.csprojAssemblyReference.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/obj/Release/netcoreapp2.1/TestProject.Interfaces.AssemblyInfoInputs.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/obj/Release/netcoreapp2.1/TestProject.Interfaces.AssemblyInfo.cs
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/obj/Release/netcoreapp2.1/TestProject.Interfaces.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/obj/Release/netcoreapp2.1/TestProject.Interfaces.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/obj/Release/netcoreapp2.1/TestProject.Interfaces.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/obj/Release/netcoreapp2.1/TestProject.Interfaces.genruntimeconfig.cache

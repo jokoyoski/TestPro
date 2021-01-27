@@ -1,0 +1,34 @@
+C:/Users/Automata/source/repos/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.deps.json
+C:/Users/Automata/source/repos/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.runtimeconfig.json
+C:/Users/Automata/source/repos/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.runtimeconfig.dev.json
+C:/Users/Automata/source/repos/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.dll
+C:/Users/Automata/source/repos/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.pdb
+C:/Users/Automata/source/repos/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.csprojAssemblyReference.cache
+C:/Users/Automata/source/repos/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.csproj.CoreCompileInputs.cache
+C:/Users/Automata/source/repos/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.AssemblyInfoInputs.cache
+C:/Users/Automata/source/repos/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.AssemblyInfo.cs
+C:/Users/Automata/source/repos/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.dll
+C:/Users/Automata/source/repos/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.pdb
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.deps.json
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.runtimeconfig.json
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.runtimeconfig.dev.json
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.dll
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.pdb
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.csproj.CoreCompileInputs.cache
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.AssemblyInfoInputs.cache
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.AssemblyInfo.cs
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.dll
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.pdb
+C:/Users/DANIEL IBANGA/source/repos/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.csprojAssemblyReference.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.deps.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.runtimeconfig.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.runtimeconfig.dev.json
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/bin/Debug/netcoreapp2.1/TestProject.Interfaces.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.csprojAssemblyReference.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.AssemblyInfoInputs.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.AssemblyInfo.cs
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.dll
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.pdb
+/Users/mac/Projects/ks-app/TestProject/TestProject.Interfaces/obj/Debug/netcoreapp2.1/TestProject.Interfaces.genruntimeconfig.cache
